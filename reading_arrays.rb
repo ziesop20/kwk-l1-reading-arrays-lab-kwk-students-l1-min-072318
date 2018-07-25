@@ -3,6 +3,7 @@ STUDENT_NAMES = ["Adele", "Beyoncé", "Cardi B","Lady Gaga","Nicki Minaj","Rihan
 def first_student_by_index
   STUDENT_NAMES[0]
 end 
+puts first_student_by_index
 
 def fourth_student_by_index
   STUDENT_NAMES[3]
